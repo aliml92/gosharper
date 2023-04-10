@@ -1,4 +1,5 @@
-# gopod
+# gosharper
+Collect podcasts and and stream it
 ## Getting Started
 ```sh
     docker-compose up -d
