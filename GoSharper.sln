@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4EE80DA5-D937-46A9-BB7B-B6833EDEE00C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "searchservice", "searchservice", "{848F6355-C039-4703-AA30-780581DF11B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{BF823F51-F50C-44F5-98D7-A5BAE432423F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F3BF5DA5-8AB2-4A77-9C0B-58D0CAFFC6C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoSharper.Domain", "src\searchservice\Infrastructure\GoSharper.Domain\GoSharper.Domain.csproj", "{DC87F282-8325-4127-A5EF-CE2D9695E6C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoSharper.Infrastructure", "src\searchservice\Infrastructure\GoSharper.Infrastructure\GoSharper.Infrastructure.csproj", "{F475D369-FD54-4D6B-BB42-6F04AF6234C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoSharper.WebApiCore", "src\searchservice\Presentation\GoSharper.WebApiCore\GoSharper.WebApiCore.csproj", "{05653052-CD5C-4D76-B705-CD7EDD0C4027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoSharper.WebApi", "src\searchservice\Presentation\GoSharper.WebApi\GoSharper.WebApi.csproj", "{DEDC80E9-14D0-4015-B370-E98969FA8331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC87F282-8325-4127-A5EF-CE2D9695E6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC87F282-8325-4127-A5EF-CE2D9695E6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC87F282-8325-4127-A5EF-CE2D9695E6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC87F282-8325-4127-A5EF-CE2D9695E6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F475D369-FD54-4D6B-BB42-6F04AF6234C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F475D369-FD54-4D6B-BB42-6F04AF6234C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F475D369-FD54-4D6B-BB42-6F04AF6234C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F475D369-FD54-4D6B-BB42-6F04AF6234C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05653052-CD5C-4D76-B705-CD7EDD0C4027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05653052-CD5C-4D76-B705-CD7EDD0C4027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05653052-CD5C-4D76-B705-CD7EDD0C4027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05653052-CD5C-4D76-B705-CD7EDD0C4027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDC80E9-14D0-4015-B370-E98969FA8331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDC80E9-14D0-4015-B370-E98969FA8331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDC80E9-14D0-4015-B370-E98969FA8331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDC80E9-14D0-4015-B370-E98969FA8331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{848F6355-C039-4703-AA30-780581DF11B7} = {4EE80DA5-D937-46A9-BB7B-B6833EDEE00C}
+		{BF823F51-F50C-44F5-98D7-A5BAE432423F} = {848F6355-C039-4703-AA30-780581DF11B7}
+		{F3BF5DA5-8AB2-4A77-9C0B-58D0CAFFC6C9} = {848F6355-C039-4703-AA30-780581DF11B7}
+		{DC87F282-8325-4127-A5EF-CE2D9695E6C1} = {BF823F51-F50C-44F5-98D7-A5BAE432423F}
+		{F475D369-FD54-4D6B-BB42-6F04AF6234C7} = {BF823F51-F50C-44F5-98D7-A5BAE432423F}
+		{05653052-CD5C-4D76-B705-CD7EDD0C4027} = {F3BF5DA5-8AB2-4A77-9C0B-58D0CAFFC6C9}
+		{DEDC80E9-14D0-4015-B370-E98969FA8331} = {F3BF5DA5-8AB2-4A77-9C0B-58D0CAFFC6C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B29BC01-BFFA-48ED-87CE-24037ACC490B}
+	EndGlobalSection
+EndGlobal
