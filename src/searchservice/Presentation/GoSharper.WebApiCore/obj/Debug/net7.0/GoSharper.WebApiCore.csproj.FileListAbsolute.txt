@@ -1,0 +1,17 @@
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.csproj.AssemblyReference.cache
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.AssemblyInfoInputs.cache
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.AssemblyInfo.cs
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.csproj.CoreCompileInputs.cache
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\bin\Debug\net7.0\GoSharper.WebApiCore.deps.json
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\bin\Debug\net7.0\GoSharper.WebApiCore.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\bin\Debug\net7.0\GoSharper.WebApiCore.pdb
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\bin\Debug\net7.0\GoSharper.Domain.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\bin\Debug\net7.0\GoSharper.Infrastructure.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\bin\Debug\net7.0\GoSharper.Domain.pdb
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\bin\Debug\net7.0\GoSharper.Infrastructure.pdb
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.csproj.CopyComplete
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\refint\GoSharper.WebApiCore.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\GoSharper.WebApiCore.pdb
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Presentation\GoSharper.WebApiCore\obj\Debug\net7.0\ref\GoSharper.WebApiCore.dll
