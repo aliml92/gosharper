@@ -1,0 +1,12 @@
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\bin\Debug\net7.0\GoSharper.Infrastructure.deps.json
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\bin\Debug\net7.0\GoSharper.Infrastructure.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\bin\Debug\net7.0\GoSharper.Infrastructure.pdb
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\GoSharper.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\GoSharper.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\GoSharper.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\GoSharper.Infrastructure.AssemblyInfo.cs
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\GoSharper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\GoSharper.Infrastructure.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\refint\GoSharper.Infrastructure.dll
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\GoSharper.Infrastructure.pdb
+C:\Users\shakh\OneDrive\Desktop\realproject\gosharper\src\searchservice\Infrastructure\GoSharper.Infrastructure\obj\Debug\net7.0\ref\GoSharper.Infrastructure.dll
