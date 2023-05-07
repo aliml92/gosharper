@@ -8,8 +8,13 @@ services:
       - xpack.security.enabled=false
       - discovery.type=single-node
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    networks:
+      - gosharper      
     ports:
       - 9200:9200
+    expose:
+      - 9200	  
+      
   kibana:
     container_name: kibana
     image: docker.elastic.co/kibana/kibana:8.6.2
@@ -19,5 +24,25 @@ services:
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
     ports:
       - 5601:5601
+    networks:
+      - gosharper	  
     depends_on:
-      - elasticsearch 
+      - elasticsearch
+      
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_DB: gosharperdb
+      POSTGRES_USER: gosharperuser
+      POSTGRES_PASSWORD: gosharperpassword
+    ports:
+      - 5432:5432
+    expose:
+      - 5432          
+    networks:
+      - gosharper
+    restart: unless-stopped
+
+networks:
+  gosharper:
+    driver: bridge           
