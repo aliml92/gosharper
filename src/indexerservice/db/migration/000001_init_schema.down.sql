@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS "podcasters";
+DROP DATABASE IF EXISTS "feed_partitions";
+DROP DATABASE IF EXISTS "feeds";

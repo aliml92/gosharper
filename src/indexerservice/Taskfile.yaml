@@ -1,0 +1,52 @@
+version: '3'
+
+tasks:
+  build:
+    desc: "build the compiled binary"
+    cmds:
+      - go build -o app cmd/server/main.go
+
+  test:
+    desc: "run all unit tests"
+    cmds:
+      - go test -v ./...
+
+  lint:
+    desc: "lint the code"
+    cmds:
+      - golangci-lint run
+
+  run:
+    desc: "runs our app and any dependencies defined within the docker-compose.yml"
+    cmds:
+      - docker-compose up --build
+
+  integration-test:
+    desc: "starts our app and then attempts to run our integration tests"
+    cmds:
+      - docker-compose up -d db
+      - go test -tags=integration -v ./...
+    env:
+      DB_USERNAME: postgres
+      DB_PASSWORD: postgres
+      DB_TABLE: postgres
+      DB_HOST: localhost
+      DB_PORT: 5432
+      DB_DB: postgres
+      SSL_MODE: disable
+
+  acceptance-tests:
+    desc: "starts our app and then attempts to run our e2e tests"
+    cmds:
+      - docker-compose up -d --build
+      - go test -tags=e2e -v ./...
+
+  migration-create:
+    desc: "creates a migration file"
+    cmds:
+      - migrate create -ext sql -dir db/migration -seq  {{.CLI_ARGS}}
+
+  sqlc-gen:
+    desc: "generates the sqlc code"
+    cmds:
+      - sqlc generate    
