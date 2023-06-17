@@ -1,0 +1,17 @@
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\bin\Debug\net7.0\GoSharper.WebApi.Core.deps.json
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\bin\Debug\net7.0\GoSharper.WebApi.Core.dll
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\bin\Debug\net7.0\GoSharper.WebApi.Core.pdb
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\bin\Debug\net7.0\GoSharper.Domain.dll
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\bin\Debug\net7.0\GoSharper.Infrastructure.dll
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\bin\Debug\net7.0\GoSharper.Domain.pdb
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\bin\Debug\net7.0\GoSharper.Infrastructure.pdb
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.csproj.AssemblyReference.cache
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.AssemblyInfoInputs.cache
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.AssemblyInfo.cs
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.csproj.CopyComplete
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.dll
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\refint\GoSharper.WebApi.Core.dll
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\GoSharper.WebApi.Core.pdb
+D:\Projects\Mine\gosharper\src\searchservice\GoSharper.WebApi.Core\obj\Debug\net7.0\ref\GoSharper.WebApi.Core.dll

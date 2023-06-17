@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi\\GoSharper.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\GoSharper.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\GoSharper.Domain.csproj",
+        "projectName": "GoSharper.Domain",
+        "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\GoSharper.Domain.csproj",
+        "packagesPath": "C:\\Users\\shakh\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shakh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\GoSharper.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\GoSharper.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\GoSharper.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\GoSharper.Infrastructure.csproj",
+        "projectName": "GoSharper.Infrastructure",
+        "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\GoSharper.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\shakh\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shakh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi.Core\\GoSharper.WebApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi.Core\\GoSharper.WebApi.Core.csproj",
+        "projectName": "GoSharper.WebApi.Core",
+        "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi.Core\\GoSharper.WebApi.Core.csproj",
+        "packagesPath": "C:\\Users\\shakh\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shakh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\GoSharper.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\GoSharper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Elastic.Apm.NetCoreAll": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "Elastic.Apm.SerilogEnricher": {
+              "target": "Package",
+              "version": "[1.5.3, )"
+            },
+            "Elastic.CommonSchema.Serilog": {
+              "target": "Package",
+              "version": "[1.5.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi\\GoSharper.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi\\GoSharper.WebApi.csproj",
+        "projectName": "GoSharper.WebApi",
+        "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi\\GoSharper.WebApi.csproj",
+        "packagesPath": "C:\\Users\\shakh\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shakh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\GoSharper.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Domain\\GoSharper.Domain.csproj"
+              },
+              "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\GoSharper.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.Infrastructure\\GoSharper.Infrastructure.csproj"
+              },
+              "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi.Core\\GoSharper.WebApi.Core.csproj": {
+                "projectPath": "D:\\Projects\\Mine\\gosharper\\src\\searchservice\\GoSharper.WebApi.Core\\GoSharper.WebApi.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
